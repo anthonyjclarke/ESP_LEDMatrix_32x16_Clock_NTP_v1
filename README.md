@@ -1,6 +1,9 @@
 # ESP_LEDMatrix_32x16_Clock_NTP_v1
 A simple LED NTP Clock made with Wemos &amp; Cheap LED Panel
 
+![alt text](/Clock2.png "Description goes here")
+![alt text](/Clock1.png "Description goes here")
+
 Forked originally from the code shared in the video by @cbm80amiga here - https://www.youtube.com/watch?v=2wJOdi0xzas&t=32s
 
 Original Code was shared with this link : https://www.youtube.com/redirect?redir_token=N1rsR8REMdFohYO6VbNlmuGF9G18MTUyMDEzNjQ5NUAxNTIwMDUwMDk1&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1dfWRP2fgwyA4KJZyiFvkcBOC8FUKdx53%3Fusp%3Dsharing&v=2wJOdi0xzas&event=video_description
